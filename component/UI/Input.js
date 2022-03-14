@@ -86,7 +86,9 @@ const styles = StyleSheet.create({
     width: '100%'
   },
   label: {
-    marginVertical: 8
+    marginVertical: 8,
+    fontWeight:'bold',
+    fontSize:16
   },
   input: {
     paddingHorizontal: 2,
